@@ -1,1 +1,1 @@
-Welcome to my portfolio blog
+Welcome to my portfolio blog, learning by doing
